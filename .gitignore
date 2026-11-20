@@ -1,0 +1,12 @@
+# Logs
+*.log
+npm-debug.log*
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Windows Explorer duplicate copies
+* - Copy.*
+*- Copy.*
